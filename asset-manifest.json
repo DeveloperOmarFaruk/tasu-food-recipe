@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tasu-food-recipe/static/css/main.7b59d8ac.chunk.css",
+    "main.js": "/tasu-food-recipe/static/js/main.5c4fa521.chunk.js",
+    "main.js.map": "/tasu-food-recipe/static/js/main.5c4fa521.chunk.js.map",
+    "runtime-main.js": "/tasu-food-recipe/static/js/runtime-main.9fe80de4.js",
+    "runtime-main.js.map": "/tasu-food-recipe/static/js/runtime-main.9fe80de4.js.map",
+    "static/js/2.356fa56c.chunk.js": "/tasu-food-recipe/static/js/2.356fa56c.chunk.js",
+    "static/js/2.356fa56c.chunk.js.map": "/tasu-food-recipe/static/js/2.356fa56c.chunk.js.map",
+    "index.html": "/tasu-food-recipe/index.html",
+    "static/css/main.7b59d8ac.chunk.css.map": "/tasu-food-recipe/static/css/main.7b59d8ac.chunk.css.map",
+    "static/js/2.356fa56c.chunk.js.LICENSE.txt": "/tasu-food-recipe/static/js/2.356fa56c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe80de4.js",
+    "static/js/2.356fa56c.chunk.js",
+    "static/css/main.7b59d8ac.chunk.css",
+    "static/js/main.5c4fa521.chunk.js"
+  ]
+}
