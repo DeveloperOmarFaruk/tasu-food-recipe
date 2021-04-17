@@ -100,6 +100,7 @@
     }
     .particles {
         height: 40vh;
+        width: 80vw;
     }
     .food-colour-f {
         font-size: 1.5rem;
